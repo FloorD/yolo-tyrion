@@ -1,2 +1,4 @@
-yolo-tyrion
+2013.eurucamp
 ===========
+####What I learned learning Rails 
+
