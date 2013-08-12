@@ -28,7 +28,7 @@ I noticed that listening to RubyTapas, RubyRogues, and the likes - even though I
 I had the fortune of friends and coworkers helping me out. If you're shit outta luck here, I'd advise people new to programming to drop by a local user group. [rubyusergroups.org][1] has a quite up to date overview of user groups around, else [meetup.com][2] and [lanyrd][3] come in handy. Rather handle this stuff online? Fire up Twitter and research the #pairwithme hashtag to find someone who'd like to coach you or learn with you. 
 
 #####Don't fake it till you make it.
-We WILL try and trick you into thinking we got it all figured out. Thing is, often times you'll just overwhelm us with your knowledge - and understandably so, you are after all psyched about this stuff - and if anything, that's demotivating. Rather than stopping the hands-on learning you got going on, they'll claim they know all about dependency injections. Now this requires some mind-reading, but if you have the feeling your student is fooling you, just say something like: "yeah and dependency injection in this particular case is great because ...". Else:
+Don't try and trick your coach into thinking you got it all figured out. Thing is, often times they'll just overwhelm us with their knowledge - and understandably so, they are after all psyched about this stuff - and if anything, that's demotivating. Rather than stopping the hands-on learning you got going on, you'll claim you know all about dependency injections. Now this requires some mind-reading on their side, which is hard. Or you just being honest. Else:
 
 - You will feel stupid, and give up.
 - You will Google stuff while your coach is having your toilet break, and get your ideas from questionable sites.
@@ -43,7 +43,7 @@ This might sound a bit controversial, but it isn't really. I started learning Ja
 Still I'd plea for learning two languages. Later I picked up on Python and it really allowed by to remember the languages' specifics by recognizing the differences and similarities in syntax. 
 
 #####Controlling everything from the Terminal makes you feel like you're in the fucking matrix (this is a good thing)
-Get your student(s) familiar with the terminal as soon as possible. As soon as I started using the terminal to create my folders even for non-programming related projects, I started using version control for basically everything and I wouldn't break my workflow anymore when I needed to test stuff or push changes. I'd be in the terminal already.
+Get familiar with the terminal as soon as possible. As soon as I started using the terminal to create my folders even for non-programming related projects, I started using version control for basically everything and I wouldn't break my workflow anymore when I needed to test stuff or push changes. I'd be in the terminal already.
 
 ###The downs
 
@@ -62,8 +62,7 @@ I understand it though. It's probably the same with me telling my mum over the p
 
 ###The ups
 
-#####Prepare to be amazed by people putting a lot of time in making kick-ass tutorials
-Girls events and making conferences and user group meetups as inclusive as possible. And: by you guys, who geniunly want to teach us newbies everything you know. 
+#####Prepare to be amazed by people putting a lot of time in making kick-ass tutorials, events and making conferences and user group meetups as inclusive as possible. 
 
 #####Through Ruby, I have developed a more logical and efficient way of problem solving
 Through Ruby (and programming in general), I have developed a more logical and efficient way of problem solving, more of an understanding of folder structures and generally lost any fear to ask questions. If I couldn't figure something out or get something to work, my mentors would encourage me to talk them through the problem. Through what I later found out is called rubber duck debugging - I often got to the root of the problem myself (often I just wasn't in the right folder or didn't update my roots), without having to turn to the internet for answers. 
