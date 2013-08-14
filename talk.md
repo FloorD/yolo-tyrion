@@ -89,4 +89,4 @@ So... wrapping up, I guess it's all about:
 [1]: http://rubyusergroups.org
 [2]: http://meetup.com
 [3]: http://lanyrd.com
-[4}: https://medium.com/i-m-h-o/62a8eaa0ea9
+[4]: https://medium.com/i-m-h-o/62a8eaa0ea9
