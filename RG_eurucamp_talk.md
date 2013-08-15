@@ -7,19 +7,15 @@ I organized Rails Girls Rotterdam in January, organizing [Rails Girls The Hague]
 I absolutely loved it, BUT... looking back on a year of learning I see things that I could have tackled a bit better. Like:
 
 #####Start with the basics
-REALLY learning HTML, Markdown and CSS helps one to create a proper understanding of constructing decent syntax. 
+REALLY learning HTML, Markdown (a markup language that looks like plain text) and CSS helps one to create a proper understanding of constructing decent syntax. 
 Codecademy fucking rocks and so does Codeschool, so this really shouldn't be a problem. 
 
 #####JavaScript will continue to suck (better dig into it fast)
 JavaScript is just hard, the syntax is weird and complicated and it doesn't 'read' like HTML or Ruby. 
-It was also hard not be fooled by CoffeeScript's popularity and end up figuring out which failing CoffeeScript line corresponded with which JavaScript line. 
 
 #####Don't get started with Bootstrap till you have a decent understanding of CSS (Inspect ALL the elements)
 Being able to create a decent looking website or just know how a website is build up by looking at it, really boosts your confidence. Plus, playing around with HTML and CSS allows you to view your changes in the browser instantly, learning while you go.
-Like what you see? Then it's time to dive into stuff like Less. Else, slap a bootstrap on that sucker. 
-
-#####BDD rocks for beginners
-During a Ruby beginners course I introduced working with cucumber and rspec and thus step definitions building your application up from the ground. Cucumber is great, because it reads like a sales pitch or a feature briefing from/to a client. Everyone that can read English can follow what you're doing there. 
+Like what you see? Then it's time to dive into stuff like Less. Else, slap a bootstrap on that sucker. Bootstr-WHAT? We'll cover Bootstrap later in the Rails Girls tutorial, but Bootstrap basically is a free collection of tools for creating websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, charts, navigation and other interface components, as well as optional JavaScript extensions. 
 
 #####Get to learn the lingo
 I noticed that listening to RubyTapas, RubyRogues, and the likes - even though I understood fuck of what they're saying 80 percent of the time - really worked for me. I'd pause the podcast everytime I wouldn't know a certain term, look it up on Google and continue. After a while I'd need to pause a whole lot less. 
