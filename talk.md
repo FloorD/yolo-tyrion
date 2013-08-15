@@ -1,4 +1,4 @@
-Learn Rails they said. It's easy they said. I experienced me learning Rails as everything but easy. It seemed that with every step I was slapped in the face with a new gem, exception or a whole new programming language. "You should really use JavaScript for that." ... and off I went to Codecademy to follow their JavaScript track. Even though I was surrounded by some great mentors, some days just looking at Avdi's Objects on Rails made my stomach cringe.
+Learn Rails they said. It's easy they said. I experienced learning Rails as everything but easy. It seemed that with every step I was slapped in the face with a new gem, exception or a whole new programming language. "You should really use JavaScript for that." ... and off I went to Codecademy to follow their JavaScript track. Even though I was surrounded by some great mentors, some days just looking at Avdi's Objects on Rails made my stomach cringe.
 
 In my talk I'd like to share what I've learned, being confident with Rails after starting learning programming in the evening hours August last year. I'd like to offer you coders a different view on what is maybe too self-evident for you to adapt your vocabulary. I strongly believe teaching makes you a better programmer and (in my case) teaching makes your own learning curve go through the roof.
 
@@ -89,4 +89,4 @@ So... wrapping up, I guess it's all about:
 [1]: http://rubyusergroups.org
 [2]: http://meetup.com
 [3]: http://lanyrd.com
-[4}: https://medium.com/i-m-h-o/62a8eaa0ea9
+[4]: https://medium.com/i-m-h-o/62a8eaa0ea9
