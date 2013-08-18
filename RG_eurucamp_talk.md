@@ -7,19 +7,15 @@ I organized Rails Girls Rotterdam in January, organizing [Rails Girls The Hague]
 I absolutely loved it, BUT... looking back on a year of learning I see things that I could have tackled a bit better. Like:
 
 #####Start with the basics
-REALLY learning HTML, Markdown and CSS helps one to create a proper understanding of constructing decent syntax. 
+REALLY learning HTML, Markdown (a markup language that looks like plain text) and CSS helps one to create a proper understanding of constructing decent syntax. 
 Codecademy fucking rocks and so does Codeschool, so this really shouldn't be a problem. 
 
 #####JavaScript will continue to suck (better dig into it fast)
 JavaScript is just hard, the syntax is weird and complicated and it doesn't 'read' like HTML or Ruby. 
-It was also hard not be fooled by CoffeeScript's popularity and end up figuring out which failing CoffeeScript line corresponded with which JavaScript line. 
 
 #####Don't get started with Bootstrap till you have a decent understanding of CSS (Inspect ALL the elements)
 Being able to create a decent looking website or just know how a website is build up by looking at it, really boosts your confidence. Plus, playing around with HTML and CSS allows you to view your changes in the browser instantly, learning while you go.
-Like what you see? Then it's time to dive into stuff like Less. Else, slap a bootstrap on that sucker. 
-
-#####BDD rocks for beginners
-During a Ruby beginners course I introduced working with cucumber and rspec and thus step definitions building your application up from the ground. Cucumber is great, because it reads like a sales pitch or a feature briefing from/to a client. Everyone that can read English can follow what you're doing there. 
+Like what you see? Then it's time to dive into stuff like Less. Else, slap a bootstrap on that sucker. Bootstr-WHAT? We'll cover Bootstrap later in the Rails Girls tutorial, but Bootstrap basically is a free collection of tools for creating websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, charts, navigation and other interface components, as well as optional JavaScript extensions. 
 
 #####Get to learn the lingo
 I noticed that listening to RubyTapas, RubyRogues, and the likes - even though I understood fuck of what they're saying 80 percent of the time - really worked for me. I'd pause the podcast everytime I wouldn't know a certain term, look it up on Google and continue. After a while I'd need to pause a whole lot less. 
@@ -36,7 +32,7 @@ Don't try and trick your coach into thinking you got it all figured out. Thing i
 
 #####Start teaching others right away
 Teaching will accelerate your own learning. They will ask you things you'd otherwise take for granted. And you'll need to be able to actually explain it.
-You can take it even more yolo and start organizing a Rails Girls event or PyLadies event in your city, forcing yourself to learn at least the basics - and get to know the community - before a certain deadline. 
+You can take it even more yolo and start organizing a Rails Girls event or PyLadies event in your city, forcing yourself to learn at least the basics - and get to know the community - before a certain deadline. That's how I did it ;) 
 
 #####Learn a different language simultaneously (in the same language)
 This might sound a bit controversial, but it isn't really. I started learning Java right after I started learning Ruby. Now bear with me. I started going through a Java reader in German. I figured that working in a German speaking country, it would help learning terminology in German. It obviously didn't. First: there is simply less documentation on bugs and error messages in German. Second: Java is hard enough as it is, just stick to English already! 
@@ -45,16 +41,15 @@ Still I'd plea for learning two languages. Later I picked up on Python and it re
 #####Controlling everything from the Terminal makes you feel like you're in the fucking matrix (this is a good thing)
 Get familiar with the terminal as soon as possible. As soon as I started using the terminal to create my folders even for non-programming related projects, I started using version control for basically everything and I wouldn't break my workflow anymore when I needed to test stuff or push changes. I'd be in the terminal already.
 
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. 
+
 ###The downs
 
 #####Ignore the people that hate on your parade
 I wish I had known I'd need to be ready for lousy jokes from brogrammers. Whenever I shared a code snippet, an excerpt of a book or a ridiculous one-pager I had made, I'd hear hurtful stuff about focussing on 'what women are good at', how much of a hipster language Ruby supposedly is or how I should stick to social media stuff as I was too lightheaded to be a developer. I couldn't really tell these people how hurtful their comments were as they'd then claim they were just joking. Maybe they were, but they were certainly not funny.
 
 #####Imposter syndrom
-If you read Ruby weekly newsletter, or lurk around on the Ruby channel on IRC, you’d assume that all open source projects are ruled by ['critical neckbeard overlords, and that submitting a bug fix or enhancement could possibly result in ego-crushing attack against your person if your code wasn’t good enough'][9]. This is unfortunate as it will make you question your code. Instead, browsing issues and pull requests on GitHub, I soon realized most open source projects aren’t like that, and that most people welcome your contributions, even if it only fixes a typo.
-
-#####Frontend vs Backend
-This age-old frontend vs backend discussion is everything but inviting or welcomy. Quit it. On company level (create feature teams!) and in other developer projects. Rather encourage your student or students to aim for a close to allround developer-ship and (only) then specialize in your tools of choice, be it CSS or C.
+If you read Ruby weekly newsletter, or lurk around on the Ruby channel on IRC, you’d assume that all open source projects are ruled by ['critical neckbeard overlords, and that submitting a bug fix or enhancement could possibly result in ego-crushing attack against your person if your code wasn’t good enough'][9]. This is unfortunate as it will make you question your code. Instead, browsing issues and pull requests on GitHub (we'll dig into GitHub later), I soon realized most open source projects aren’t like that, and that most people welcome your contributions, even if it only fixes a typo.
 
 #####Developers saying that something is 'super easy' while to you it looks like the hardest thing in the world, just need a nudge in the right direction.
 I understand it though. It's probably the same with me telling my mum over the phone (while being in a busy tram with eager eavesdroppers) how to make something 'fat' in Word... Funny thing with my mum is that she's actually a vivid user of Twitter (follow her on @toosdreef) and Facebook. At one point I figured that explaining her how to open a link I had sent in an email was similar to crafting a new tweet on Tweetdeck. "Just select the link (she thinks clicking it will hide her email inbox forever), copy it, paste it in a new browser tab like you'd use a new tweet field, and hit enter!" Worked. 
@@ -65,7 +60,7 @@ I understand it though. It's probably the same with me telling my mum over the p
 #####Prepare to be amazed by people putting a lot of time in making kick-ass tutorials, events and making conferences and user group meetups as inclusive as possible. 
 
 #####Through Ruby, I have developed a more logical and efficient way of problem solving
-Through Ruby (and programming in general), I have developed a more logical and efficient way of problem solving, more of an understanding of folder structures and generally lost any fear to ask questions. If I couldn't figure something out or get something to work, my mentors would encourage me to talk them through the problem. Through what I later found out is called rubber duck debugging - I often got to the root of the problem myself (often I just wasn't in the right folder or didn't update my roots), without having to turn to the internet for answers. 
+Through Ruby (and programming in general), I have developed a more logical and efficient way of problem solving, more of an understanding of folder structures and generally lost any fear to ask questions. If I couldn't figure something out or get something to work, my mentors would encourage me to talk them through the problem. Through what I later found out is called rubber duck debugging - I often got to the root of the problem myself (often I just wasn't in the right folder), without having to turn to the internet for answers. 
 
 #####It's not all dorm rooms and cold pizza
 GitHub provides the social component might it otherwise be absent because you're studying by yourself, in the quiet of your bed room. Introducing GitHub as a 'social network for developers' proved to work with the Rails Girls attendees.It's soothing to know there are more people out there.
